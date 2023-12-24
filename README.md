@@ -17,3 +17,4 @@ Backtracking:
    * For each digit 1 to 9:
        If the digit is valid in the current row, column, and box, fill the square and move to the next one.
    * If no valid number is found, backtrack to the previous square.
+
