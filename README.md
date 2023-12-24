@@ -17,6 +17,8 @@ Backtracking:
    * For each digit 1 to 9:
        If the digit is valid in the current row, column, and box, fill the square and move to the next one.
    * If no valid number is found, backtrack to the previous square.
-   * ![image](https://github.com/jha-sakshi/sudoku-solver/assets/95759285/6a5ad5ee-9c35-42be-83fe-b6c88b445e45)
+     ![image](https://github.com/jha-sakshi/sudoku-solver/assets/95759285/6a5ad5ee-9c35-42be-83fe-b6c88b445e45)
+     ![image](https://github.com/jha-sakshi/sudoku-solver/assets/95759285/73ad93e6-2540-44bb-bf9b-5b37813249e3)
+
 
 
